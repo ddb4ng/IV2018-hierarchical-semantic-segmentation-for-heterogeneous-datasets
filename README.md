@@ -14,7 +14,7 @@ If you find our work useful for your research, please cite the following paper:
 ```
 
 # Introduction ###
-Discrimative power and generalization capabilities of convolutional networks is vital for deployment of semantic segmentation systems in the wild. These properties can be obtained by training a single net on multiple datasets.
+Discriminative power and generalization capabilities of convolutional networks is vital for deployment of semantic segmentation systems in the wild. These properties can be obtained by training a single net on multiple datasets.
 
 Combined training on multiple datasets is hampered by a variety of reasons, mainly including:
 * different level-of-detail of labels (e.g. *person* label in *dataset A* and *pedestrian* and *rider* labels in *dataset B*)
